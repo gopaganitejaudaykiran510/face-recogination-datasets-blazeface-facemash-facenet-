@@ -1,0 +1,14 @@
+ Best Dataset: WIDER FACE
+📦 Full Name: WIDER FACE dataset
+
+🌍 URL: http://shuoyang1213.me/WIDERFACE/
+
+🔢 Size: 32,203 images with 393,703 labeled faces
+
+🧠 Why it’s best:
+
+Huge variation in scale, pose, and occlusion
+
+Standard for training and benchmarking face detection models
+
+Widely used by research and industry (used in RetinaFace, DSFD, etc.)
